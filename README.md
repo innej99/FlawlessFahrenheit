@@ -1,2 +1,2 @@
 # FlawlessFahrenheit
-final project group code from Girls Who Code Chicago Accenture 2015
+8-bit game inspired by cold office buildings
